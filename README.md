@@ -10,4 +10,4 @@
 </body>
 </html>
 
-<a href="https://github.com/">open GitHub</a>
+<a href="(https://github.com/Snowy-Sky-899/My-Website-/blob/main/README.md)">open GitHub</a>
