@@ -11,6 +11,8 @@
 </html>
 
 <body>
+
+<head>
 <div class="panel">
 <div class="intro">
 :3
@@ -29,3 +31,4 @@ height:50px;
 width:100px;
 background-color: rgb(142, 116, 230);
 }
+</head>
