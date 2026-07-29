@@ -10,25 +10,4 @@
 </body>
 </html>
 
-<body>
-
-<head>
-<div class="panel">
-<div class="intro">
-:3
-</div>
-</div>
-</body>
-
-.panel{
-height:100px;
-width:150px;
-background-color: rgb(245, 138, 156);
-}
-
-.intro{
-height:50px;
-width:100px;
-background-color: rgb(142, 116, 230);
-}
-</head>
+<a href="https://github.com/">open GitHub</a>
