@@ -7,7 +7,21 @@
 </head>
 <body>
     Hi! this website is about me and my hobbies. (☆▽☆)
+    <header>
+  <h1>My Personal Site</h1>
+  <nav>
+    <a href="#about">About</a>
+    <a href="#projects">Projects</a>
+  </nav>
+</header>
+    <section id="about">
+  <h2>About Me</h2>
+  <p>Write a short intro about yourself here.</p>
+</section>
+
+<section id="projects">
+  <h2>Projects</h2>
+  <p>Add your projects here.</p>
+</section>
 </body>
 </html>
-
-<a href="(https://github.com/Snowy-Sky-899/My-Website-/main/README.md)">open GitHub</a>
