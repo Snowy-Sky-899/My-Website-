@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title> Document </title>
+    <link rel="stylesheet" href=""> 
+background-color: rgb(115, 115, 212);
 </head>
 <body>
-    Hi! this website is about me and my hobbies. (☆▽☆)
+    Hi! this website is about me. (☆▽☆)
     <header>
   <h1>My Personal Site</h1>
   <nav>
