@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href=>
+    <link rel="stylesheet" href=
 .stylesheet{
 "background-color: rgb(94, 60, 108);"
 }
+>
 </head>
 <body>
     Hi! this website is about me. (☆▽☆)
