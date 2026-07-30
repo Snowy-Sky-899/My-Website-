@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Document </title>
-    <link rel="stylesheet" href=""> 
-background-color: rgb(115, 115, 212);
+    <title>Document</title>
 </head>
 <body>
     Hi! this website is about me. (☆▽☆)
@@ -26,4 +24,8 @@ background-color: rgb(115, 115, 212);
   <p>Add your projects here.</p>
 </section>
 </body>
+    <head> 
+    <link rel="stylesheet" href=""> 
+background-color: rgb(115, 115, 212);
+    </head>
 </html>
