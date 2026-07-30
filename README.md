@@ -24,8 +24,4 @@
   <p>Add your projects here.</p>
 </section>
 </body>
-    <head> 
-    <link rel="stylesheet" href=""> 
-background-color: rgb(115, 115, 212);
-    </head>
 </html>
