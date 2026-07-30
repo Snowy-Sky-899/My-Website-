@@ -6,7 +6,6 @@
 </head>
 <body>
     Hi! this website is about me. (☆▽☆)
-    <header>
   <h1> Navigation Bar :) </h1>
 <nav>
     <a href="#about">About</a>
